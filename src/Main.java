@@ -1,4 +1,4 @@
-import java.util.Random;   ///// daniel lote garcia
+import java.util.Random;   ///// daniel lote garcia parcial practico
 import java.util.Scanner;
 
 public class Main {
